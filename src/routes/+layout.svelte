@@ -32,8 +32,6 @@
 					#fcf3ff 0 50%
 				)
 				50% / 60px 60px;
-			max-height: 100vh;
-			overflow: hidden;
 		}
 	}
 
